@@ -23,6 +23,8 @@ class NumNode:
 
 
 def Main():
+    # Evaluating basic expression : 
+        # (5+4)*6+3
     x = NumNode(5)
     y = NumNode(4)
     p = AddNodes(x,y)
